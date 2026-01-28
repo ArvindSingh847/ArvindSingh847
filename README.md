@@ -8,7 +8,7 @@ Hey there! I’m Arvind a student who’s deeply passionate about technology, pe
 
 I believe tech isn’t just about coding it’s about solving real problems, building connections, and continuously learning to become a better version of yourself every day.
 
-I’m currently exploring how AI, web development, and creative storytelling through video editing can come together to make ideas come alive.
+I’m currently exploring how AI, web development, Machine Learning can come together to make ideas come alive.
 
 I love collaborating on projects that mix innovation with impact, and I’m always excited to learn from people who share the same drive for growth and curiosity.
 
